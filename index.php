@@ -21,7 +21,7 @@
   </head>
   <body>
 	  
- 	<? echo $config['LautaNimi']; /* Alla näkyy miten nuo linkit pistetään */ ?>
+ 	<?php echo $config['LautaNimi']; /* Alla näkyy miten nuo linkit pistetään */ ?>
 	<br />
 	<a href="./lauta/b/"> /b/ - Sekalainen </a> <!-- Tee A HREF elementti ja laita linkkiin ./lauta/LAUTA_KIRJAIN/. Sitten /LAUTA_KIRJAIN/ - LAUDAN_KUVAUS -->
 	<br />
