@@ -13,7 +13,7 @@
 
 <html>
   <head>
-    <title> JonneLauta <?php echo $LautaVersio; ?> </title>
+    <title> JonneLauta <?php echo $config['LautaVersio']; ?> </title>
     <? // <link rel="stylesheet" type="text/css" href="./css/main.css" /> ?>
     <meta charset="utf-8" />
   </head>
