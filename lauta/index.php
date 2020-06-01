@@ -1,11 +1,11 @@
 <?php
-  include("./php/settings.php");
+  include("../php/settings.php");
 ?>
 
 <html>
 
   <head>
-  
+    
   </head>
   
   <body>
