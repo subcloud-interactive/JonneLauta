@@ -1,5 +1,6 @@
 <?php
   // Tehdään tää ehkä huomenna...
+  include("./php/settings.php");
 ?>
 <html>
   
