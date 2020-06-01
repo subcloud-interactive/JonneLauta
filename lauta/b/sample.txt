@@ -1,2 +1,0 @@
-GitHub pakottaa luomaan tiedoston, jotta voi luoda uuden kansion. Tämä on sample teksti.
-Lorem ipsum dolor sit amet.
