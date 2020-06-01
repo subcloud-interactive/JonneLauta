@@ -6,6 +6,7 @@
   $config['Tietokanta'] = "Tietokannan Nimi"; //Tietokantasi nimi.
   $config['LautaNimi'] = "Laudan Nimi"; //Tähän tulee lautasi nimi.
   $config['LautaVersio'] = "Laudan Versio"; //Vaihda aina kun päivität lautaasi. Vinkki: Kannattaa aloittaa versiosta 0.1
+  $config['LautaURL'] = "https://example.com/"; //Lautasi *KOKO* URL osoite. Esim: https://example.com/ (HUOM: käytä https protokollaa, jos sinulla on SSL, muissa tapauksissa käytä HTTP.)
   
   
   
