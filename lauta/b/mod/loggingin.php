@@ -1,8 +1,9 @@
 <?php
+include('../../../php/settings.php');
 session_start() ;
 $user_id = $_POST['user_id'] ;
 $user_passwd = $_POST['user_passwd'] ;
-if($user_id =="admin" && $user_passwd =="homo_pelle")
+if($user_id ==$config['Admin'] && $user_passwd ==$config['AdminPW'])
 {
 $_SESSION['success'] =  "Successfully Logged In";
 $_SESSION['auth'] = 1 ;
