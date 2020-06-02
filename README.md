@@ -1,7 +1,9 @@
-# JonneLauta
-Jonnelauta on kuva / tekstilauta sivusto joka perustuu ylilautaan ja 4chaniin.
-# Ohjeet löytyvät matkan varrelta. 
-# Dev Notes
-1. Laudalle ei voi VIELÄ postata kuvia. Kuvan paikalle tulee tekstiä. Siihen voi laittaa esimerkiksi kuvan linkin. (Esim: https://www.no-copyright.com/static/preview2/stock-photo-free-stock-photo-no-copyright-image-no-copyright-stock-photo-127136.jpg)
-2. Koodi on vielä paikka paikoin erittäin sotkuista.
-
+# JonneLauta - Tietoa
+JonneLauta on Suomalais valmisteinen kuva- ja tekstilauta ohjelmisto. Se on täysin ilmainen, mutta jos haluat käyttää sitä sinun pitää jättää kaikki "Subcloud Interactive" copyright tekstit koodin sisään. Muokkaa vain sallituja asioita.
+# JonneLauta - TOS
+1. Muokkaa vain sallittuja asioita.
+1.1. Älä rebrandaa tuotetta ja jaa sitä eteenpäin.
+2. Älä myy tuotetta omanasi.
+3. Muiden, kuin muokattavaksi tarkoitettujen asioiden muokkaaminen on sallitua vain erikoisluvalla! (Subcloud@zohomail.eu)!
+# JonneLauta - Demo
+http://assumptive-format.000webhostapp.com/
