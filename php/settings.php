@@ -1,4 +1,9 @@
 <?php
+
+  //Admin tunnukset:
+
+  $config['Admin'] = "admin"; //Nimi
+  $config['AdminPW'] = "123"; //Salasana
   
  
   $config['Palvelin'] = "localhost"; //Tietokantasi Hosti esim: localhost tai 127.0.0.1
