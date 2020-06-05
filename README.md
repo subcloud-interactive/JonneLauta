@@ -5,5 +5,5 @@ JonneLauta on Suomalais valmisteinen kuva- ja tekstilauta ohjelmisto. Se on täy
 1.1. Älä rebrandaa tuotetta ja jaa sitä eteenpäin.
 2. Älä myy tuotetta omanasi.
 3. Muiden, kuin muokattavaksi tarkoitettujen asioiden muokkaaminen on sallitua vain erikoisluvalla! (Subcloud@zohomail.eu)!
-# JonneLauta - Demo
+# JonneLauta - Demo (not in operation)
 http://assumptive-format.000webhostapp.com/
