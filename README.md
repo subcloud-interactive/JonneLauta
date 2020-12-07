@@ -1,5 +1,8 @@
 # JonneLauta - Tietoa
 JonneLauta on Suomalais valmisteinen kuva- ja tekstilauta ohjelmisto. Se on täysin ilmainen, mutta jos haluat käyttää sitä sinun pitää jättää kaikki "Subcloud Interactive" copyright tekstit koodin sisään. Muokkaa vain sallituja asioita.
+
+EDIT:
+Koodi on tosi sotkuista. Älä suutu :) kek.
 # JonneLauta - TOS
 1. Muokkaa vain sallittuja asioita.
 1.1. Älä rebrandaa tuotetta ja jaa sitä eteenpäin.
